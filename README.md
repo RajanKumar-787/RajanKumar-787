@@ -1,10 +1,10 @@
 <!-- ====== HEADER BANNER ====== -->
-<p align="center">
-<img src="https://github.com/RajanKumar-787/RajanKumar-787/blob/687e90690f8c05bcfcdb4862f3d2b2f86cb1360c/Images/analytics.gif" width="50%" alt="Rajan Kumar - Data Analyst Banner"/>
-</p>
 
 <h1 align="center">👋 Hi My name is Rajan Kumar, and I'm a Data Analyst from 🇮🇳 </h1>
 
+<p align="center">
+<img src="https://github.com/RajanKumar-787/RajanKumar-787/blob/687e90690f8c05bcfcdb4862f3d2b2f86cb1360c/Images/analytics.gif" width="50%" alt="Rajan Kumar - Data Analyst Banner"/>
+</p>
 
 ## 🧠 About Me
 
