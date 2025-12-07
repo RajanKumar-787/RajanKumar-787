@@ -1,6 +1,6 @@
 <!-- ====== HEADER BANNER ====== -->
 <p align="center">
-<img src="https://github.com/RajanKumar-787/RajanKumar-787/blob/52283b2f8ff3857bb9afa10142be091bc91d546b/Images/Analytics.gif" width="30%" alt="Rajan Kumar - Data Analyst Banner"/>
+<img src="https://github.com/RajanKumar-787/RajanKumar-787/blob/52283b2f8ff3857bb9afa10142be091bc91d546b/Images/Analytics.gif" width="50%" alt="Rajan Kumar - Data Analyst Banner"/>
 </p>
 
 <h1 align="center">👋 Hi My name is Rajan Kumar, and I'm a Data Analyst from />
