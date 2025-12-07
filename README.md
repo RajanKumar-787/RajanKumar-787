@@ -18,7 +18,6 @@
 ## 🛠 Tech Stack & Tools
 
 <p>
-
 <img src="https://github.com/RajanKumar-787/RajanKumar-787/blob/73f5fba7d795a5c1fc6e4fcc687893b0cd6efa17/Images/Microsoft_Office_Excel_(2019%E2%80%93present).svg.png" width="5%"/>
 <img src="https://github.com/RajanKumar-787/RajanKumar-787/blob/73f5fba7d795a5c1fc6e4fcc687893b0cd6efa17/Images/1200px-New_Power_BI_Logo.svg.png" width="5%"/>
 <img src="https://github.com/RajanKumar-787/RajanKumar-787/blob/73f5fba7d795a5c1fc6e4fcc687893b0cd6efa17/Images/database.png" width="5%"/>
